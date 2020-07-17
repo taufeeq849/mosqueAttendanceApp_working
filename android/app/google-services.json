@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "117306947871",
+    "firebase_url": "https://mosque-attendance.firebaseio.com",
+    "project_id": "mosque-attendance",
+    "storage_bucket": "mosque-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117306947871:android:f081279c2eb09c0457d82a",
+        "android_client_info": {
+          "package_name": "com.example.mosque_attendance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117306947871-br36kaeoag27fuk72ogv9ua17h9gpg78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mosque_attendance_app",
+            "certificate_hash": "1f50c9495cbce30324dffaba248a4c32e8a6dc20"
+          }
+        },
+        {
+          "client_id": "117306947871-rb5mks61c7hs8fg860npcmoo4qeg7747.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphjf7mCOebEKzwz-iQR3rDAwcuRIXL6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117306947871-rb5mks61c7hs8fg860npcmoo4qeg7747.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
